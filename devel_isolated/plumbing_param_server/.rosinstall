@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/smartpig/ROS_learning/devel_isolated/plumbing_param_server/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/smartpig/ROS_learning/devel
+
+Name: plumbing_client_server
+Description: Description of plumbing_client_server
+Version: 0.0.0
+Cflags: -I/home/smartpig/ROS_learning/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

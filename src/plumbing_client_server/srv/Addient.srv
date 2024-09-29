@@ -1,0 +1,5 @@
+int32 num1
+int32 num2
+---
+#服务器响应发送数据
+int32 sum

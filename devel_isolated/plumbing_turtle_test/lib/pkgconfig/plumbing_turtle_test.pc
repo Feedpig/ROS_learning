@@ -1,0 +1,8 @@
+prefix=/home/smartpig/ROS_learning/devel_isolated/plumbing_turtle_test
+
+Name: plumbing_turtle_test
+Description: Description of plumbing_turtle_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

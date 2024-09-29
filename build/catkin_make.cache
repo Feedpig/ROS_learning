@@ -1,0 +1,2 @@
+launch_basic:plumbing_apis:plumbing_client_server:plumbing_my:plumbing_param_server:plumbing_pub_sub:plumbing_turtle_test:raname_param:rename_topic
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/smartpig/ROS_learning/devel -DCMAKE_INSTALL_PREFIX=/home/smartpig/ROS_learning/install -G Unix Makefiles

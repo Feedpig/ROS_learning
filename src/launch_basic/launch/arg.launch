@@ -1,0 +1,15 @@
+<launch>
+    <!-- 需求：演示arg的使用-需要设置多个参数，这些参数使用的是同一个指，比如小车的长度 -->
+    
+    <!-- 用param设置参数：会存在一个问题
+        当某个（参数值）发生改变时，需要对多个使用（此参数值的param）逐一进行修改
+    
+    <param name="A" value = "100">
+    <param name="B" value = "100"> -->
+
+    <arg name = "car_length" default="100" doc = "car-length" />
+
+    <param name="A" value = "$(arg car_length)" />
+    <param name="B" value = "$(arg car_length)" />
+
+</launch>

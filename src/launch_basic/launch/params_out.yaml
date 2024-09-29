@@ -1,0 +1,22 @@
+baby:
+  my_turtle:
+    background_b: 255
+    background_g: 86
+    background_r: 69
+    bg_R: 100
+    bg_b: 200
+    param_b: 3.14
+bg_R: 100
+bg_b: 200
+param_A: 100
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_smart_pig__41269: http://smart-Pig:41269/
+    host_smart_pig__42673: http://smart-Pig:42673/
+rosversion: '1.16.0
+
+  '
+run_id: daa09338-79f3-11ef-9fe8-559dac6541c8

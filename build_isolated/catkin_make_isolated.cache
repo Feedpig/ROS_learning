@@ -1,0 +1,2 @@
+plumbing_client_server:plumbing_param_server:plumbing_pub_sub:plumbing_turtle_test
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/smartpig/ROS_learning/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/smartpig/ROS_learning/install_isolated

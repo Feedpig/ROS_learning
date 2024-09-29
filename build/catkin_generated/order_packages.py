@@ -1,0 +1,5 @@
+# generated from catkin/cmake/template/order_packages.context.py.in
+source_root_dir = '/home/smartpig/ROS_learning/src'
+whitelisted_packages = ''.split(';') if '' != '' else []
+blacklisted_packages = ''.split(';') if '' != '' else []
+underlay_workspaces = '/home/smartpig/ROS_learning/devel_isolated/plumbing_turtle_test;/home/smartpig/ROS_learning/devel_isolated/plumbing_pub_sub;/home/smartpig/ROS_learning/devel_isolated/plumbing_param_server;/home/smartpig/ROS_learning/devel_isolated/plumbing_client_server;/home/smartpig/ROS_learning/devel;/home/smartpig/D435i_test/devel;/home/smartpig/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/smartpig/ROS_learning/devel_isolated/plumbing_turtle_test;/home/smartpig/ROS_learning/devel_isolated/plumbing_pub_sub;/home/smartpig/ROS_learning/devel_isolated/plumbing_param_server;/home/smartpig/ROS_learning/devel_isolated/plumbing_client_server;/home/smartpig/ROS_learning/devel;/home/smartpig/D435i_test/devel;/home/smartpig/catkin_ws/devel;/opt/ros/noetic' != '' else []

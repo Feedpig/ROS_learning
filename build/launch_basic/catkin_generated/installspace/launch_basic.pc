@@ -1,0 +1,8 @@
+prefix=/home/smartpig/ROS_learning/install
+
+Name: launch_basic
+Description: Description of launch_basic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
